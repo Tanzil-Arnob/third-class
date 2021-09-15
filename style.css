@@ -1,0 +1,27 @@
+
+h4{
+	color:white;background-color:skyblue;
+	background-image:url(goat.jpg);
+	background-attachment:fixed;
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	border: 4px solid red;
+	border-radius: 20px;
+}
+.one{
+	color:yellow;background-color:red; 
+	opacity: 0.7;
+	border: 5px dashed blue;
+}
+#two{
+color:red;background-color:black;
+border: 8px dotted yellow;
+}
+button{
+	background-color:skyblue;
+	font-size: 20px;
+	font-color:white;
+	border: 1px solid skyblue;
+	border-radius: 40px;
+}
